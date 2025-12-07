@@ -66,7 +66,10 @@
 
 ###
 
-<p align="left">✉️maik.gr@outlook.de</p>
+
+<address>
+✉️ <a href="mailto:maik.gr@outlook.de"> Contact me</a>
+</address>
 
 ###
 
