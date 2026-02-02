@@ -68,7 +68,7 @@
 
 
 <address>
-✉️ <a href="mailto:maik.gr@outlook.de"> Contact me</a>
+✉️ <a href="mailto:contact@maik-groth.com"> Contact me</a>
 </address>
 
 ###
