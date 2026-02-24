@@ -9,7 +9,7 @@
 ###
 
 <p align="center">🤖 I'm a software developer trainee based in Lübeck, Germany, specializing in frontend development.  <br>
-  I build modern, responsive and user-focused web applications.  <br><br>🔗 Explore my portfolio: <a href="https://maik-groth.com" target="_blank">maik-groth.com<a/></p>
+  I build modern, responsive and user-focused web applications.  <br><br>🔗 Explore my portfolio: <a href="https://www.maik-groth.com" target="_blank">www.maik-groth.com<a/></p>
 
 ###
 
