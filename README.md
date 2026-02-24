@@ -53,6 +53,7 @@
 <p align="left"></p>
 
 ###
+<br>
 
 <h3 align="center">⚙️Tools</h3>
 
@@ -90,14 +91,6 @@
 
 <h2 align="left">Contact me</h2>
 
-###
-
-
-<address>
-✉️ <a href="mailto:contact@maik-groth.com"> Contact me</a>
-</address>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maik-groth" target="_blank">
@@ -106,4 +99,9 @@
   <a href="https://discord.com/users/206875427631923200" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="contact@maik-groth.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <div align="left">
+</div>
 </div>
