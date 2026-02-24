@@ -8,7 +8,8 @@
 
 ###
 
-<p align="center">🤖 I'm a software developer trainee based in Lübeck, Germany, specializing in frontend development.  <br>I build modern, responsive and user-focused web applications.  <br><br>🔗 Explore my portfolio: https://maik-groth.com</p>
+<p align="center">🤖 I'm a software developer trainee based in Lübeck, Germany, specializing in frontend development.  <br>
+  I build modern, responsive and user-focused web applications.  <br><br>🔗 Explore my portfolio: <a href="https://maik-groth.com" target="_blank">maik-groth.com<a/></p>
 
 ###
 
@@ -63,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
   <img width="12" />
