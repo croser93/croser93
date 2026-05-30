@@ -35,11 +35,11 @@ Currently, I'm expanding my backend development skills to become a Full-Stack De
 
 ###
 
-<h2 align="center">🛠️ I code with</h2>
+<h2 align="center">⚡ Tools & Technologies</h2>
 
 ###
 
-<h3 align="center">🖥️ Frontend</h3>
+<h3 align="center">🖥️ Front-End</h3>
 
 ###
 
@@ -63,7 +63,7 @@ Currently, I'm expanding my backend development skills to become a Full-Stack De
 
 ###
 
-<h3 align="center">🖥️ Backend</h3>
+<h3 align="center">🖥️ Back-End</h3>
 
 ###
 
