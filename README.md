@@ -18,18 +18,14 @@ Currently, I'm expanding my backend development skills to become a Full-Stack De
 
 ###
 
-<p align="center">📖 I'm passionate about continuous learning and constantly improving my skills.<br><br>
-
+<p align="center">📖 I'm passionate about continuous learning and constantly improving my skills.<br>
 👨‍💻 Frontend Developer with a strong interest in creating modern, responsive, and user-friendly web applications.<br>
-Currently expanding my expertise in backend technologies on my journey to becoming a Full-Stack Developer.<br><br>
-
-💡 I enjoy solving problems, building practical solutions, and turning ideas into functional digital experiences.<br><br>
-
-🤝 I value collaboration, knowledge sharing, and learning from different perspectives within a team environment.<br><br>
-
-🎯 My goal is to grow as a Full-Stack Developer, contribute to meaningful projects, and continuously evolve as a software engineer.<br><br>
-
+🚀 Currently expanding my expertise in backend technologies on my journey to becoming a Full-Stack Developer.<br>
+💡 I enjoy solving problems, building practical solutions, and turning ideas into functional digital experiences.<br>
+🤝 I value collaboration, knowledge sharing, and learning from different perspectives within a team environment.<br>
+🎯 My goal is to grow as a Full-Stack Developer, contribute to meaningful projects, and continuously evolve as a software engineer.<br>
 🏁 Always ready to take on new challenges and explore new technologies.
+</p>
 
 ###
 
@@ -113,19 +109,24 @@ Currently expanding my expertise in backend technologies on my journey to becomi
 
 ###
 
-<h2 align="left">Contact me</h2>
+<h2 align="center">Contact me</h2>
 
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/maik-groth" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/206875427631923200" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="contact@maik-groth.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <div align="left">
-</div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/maik-groth" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+      </a>      
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/206875427631923200" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+      </a>
+    </td>
+    <td align="center">
+      <a href="contact@maik-groth.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+      </a>
+    </td>
+  </tr>
+</table>
