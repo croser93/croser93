@@ -8,8 +8,9 @@
 
 ###
 
-<p align="center">🤖 I'm a software developer trainee based in Lübeck, Germany, specializing in frontend development.  <br>
-  I build modern, responsive and user-focused web applications.  <br><br>🔗 Explore my portfolio: <a href="https://www.maik-groth.com" target="_blank">www.maik-groth.com<a/></p>
+<p align="center">🤖 I'm a Frontend Developer based in Krummesse, near Lübeck, Germany, with a strong focus on modern web technologies.<br>
+Currently, I'm expanding my backend development skills to become a Full-Stack Developer.
+<br><br>🔗 Explore my portfolio: <a href="https://www.maik-groth.com" target="_blank">www.maik-groth.com<a/></p>
 
 ###
 
@@ -17,7 +18,18 @@
 
 ###
 
-<p align="center">📖 I'm always eager to learn and continuously improve my skills.<br><br>👨‍💻 Passionate about technology and building practical solutions.  <br>Currently specializing in frontend development while expanding my knowledge in backend technologies.<br><br>🎯 My goal is to start my career as a software developer and grow within a professional team.<br><br>💡 I enjoy collaborating with others, sharing ideas, and learning from different perspectives.<br><br>🏁 Motivated to take on new challenges and step outside my comfort zone.</p>
+<p align="center">📖 I'm passionate about continuous learning and constantly improving my skills.<br><br>
+
+👨‍💻 Frontend Developer with a strong interest in creating modern, responsive, and user-friendly web applications.<br>
+Currently expanding my expertise in backend technologies on my journey to becoming a Full-Stack Developer.<br><br>
+
+💡 I enjoy solving problems, building practical solutions, and turning ideas into functional digital experiences.<br><br>
+
+🤝 I value collaboration, knowledge sharing, and learning from different perspectives within a team environment.<br><br>
+
+🎯 My goal is to grow as a Full-Stack Developer, contribute to meaningful projects, and continuously evolve as a software engineer.<br><br>
+
+🏁 Always ready to take on new challenges and explore new technologies.
 
 ###
 
@@ -100,11 +112,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/croser93/croser93/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <h2 align="left">Contact me</h2>
 
