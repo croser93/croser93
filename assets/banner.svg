@@ -1,1 +1,93 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14" />
+      <stop offset="100%" stop-color="#0d1420" />
+    </linearGradient>
 
+    <linearGradient id="neonName" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffc8" />
+      <stop offset="50%" stop-color="#00e0ff" />
+      <stop offset="100%" stop-color="#7c4dff" />
+    </linearGradient>
+
+    <linearGradient id="neonSub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2ecb" />
+      <stop offset="100%" stop-color="#7c4dff" />
+    </linearGradient>
+
+    <filter id="glowStrong" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="blur1" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur1" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1c2b3a" stroke-width="1" />
+    </pattern>
+
+    <radialGradient id="fade" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0a0e14" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0a0e14" stop-opacity="0.9" />
+    </radialGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)" />
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.5" />
+  <rect width="1200" height="300" fill="url(#fade)" />
+
+  <!-- scanlines -->
+  <g opacity="0.06">
+    <rect y="0" width="1200" height="2" fill="#00ffc8" />
+    <rect y="20" width="1200" height="1" fill="#00ffc8" />
+    <rect y="60" width="1200" height="1" fill="#00ffc8" />
+    <rect y="140" width="1200" height="1" fill="#00ffc8" />
+    <rect y="220" width="1200" height="1" fill="#00ffc8" />
+    <rect y="280" width="1200" height="1" fill="#00ffc8" />
+  </g>
+
+  <!-- corner brackets, terminal vibe -->
+  <g stroke="#00ffc8" stroke-width="2" opacity="0.8" filter="url(#glowSoft)">
+    <path d="M 40 40 L 40 70 M 40 40 L 70 40" fill="none" />
+    <path d="M 1160 40 L 1160 70 M 1160 40 L 1130 40" fill="none" />
+    <path d="M 40 260 L 40 230 M 40 260 L 70 260" fill="none" />
+    <path d="M 1160 260 L 1160 230 M 1160 260 L 1130 260" fill="none" />
+  </g>
+
+  <!-- floating code glyphs -->
+  <text x="90" y="100" font-family="Fira Code, monospace" font-size="24" fill="#00e0ff" opacity="0.35">&lt;/&gt;</text>
+  <text x="1030" y="220" font-family="Fira Code, monospace" font-size="24" fill="#ff2ecb" opacity="0.3">{ }</text>
+  <text x="1000" y="90" font-family="Fira Code, monospace" font-size="18" fill="#7c4dff" opacity="0.35">01</text>
+  <text x="110" y="220" font-family="Fira Code, monospace" font-size="18" fill="#00ffc8" opacity="0.3">10</text>
+
+  <!-- terminal prompt line -->
+  <text x="600" y="105" font-family="Fira Code, monospace" font-size="18" fill="#00ffc8" text-anchor="middle" opacity="0.85" filter="url(#glowSoft)">
+    &gt; whoami
+  </text>
+
+  <!-- main neon name -->
+  <text x="600" y="175" font-family="Consolas, 'Courier New', monospace" font-size="66" font-weight="700" fill="url(#neonName)" text-anchor="middle" letter-spacing="3" filter="url(#glowStrong)">
+    Maik Groth
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="225" font-family="Fira Code, monospace" font-size="26" font-weight="500" fill="url(#neonSub)" text-anchor="middle" letter-spacing="4" filter="url(#glowSoft)">
+    FULLSTACK DEVELOPER
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="895" y="205" width="14" height="26" fill="#00ffc8" opacity="0.9" filter="url(#glowSoft)">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.1s" repeatCount="indefinite" />
+  </rect>
+</svg>
