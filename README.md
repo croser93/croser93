@@ -1,11 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&reversal=true&text=Maik%20Groth&fontSize=70&fontColor=black&fontAlign=50&fontAlignY=34&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-###
+ <div align="center"> <img src="assets/banner.svg" alt="Maik Groth - Fullstack Developer" width="100%" /> </div>
+<br>
 
 <h2 align="center">Hey 👋 What's up?</h2>
 
-###
+
 <div align="center">
 <p align="center">🤖 I am a Full-Stack Developer based in Krummesse near Lübeck, focusing primarily on modern web technologies ranging from responsive frontends to robust backend systems.
 I am currently actively seeking my first position as a developer; please feel free to contact me if I have sparked your interest.<br>
